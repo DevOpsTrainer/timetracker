@@ -11,9 +11,9 @@
     <title>Jenkins Deployment</title>
 </head>
 <body>
-  <h1>This is End of Jenkins Class</h1>
+  <h1>TimeTracker Application</h1>
   <p>
-   Syed...Uttam--Ankush are part of this application
+   Today is 01/07/2021. End of Jenkins class and will Start AWS fro tomorrow.
   </p>
 </body>
 </html>
