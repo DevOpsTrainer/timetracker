@@ -14,7 +14,7 @@
   <h1>Jenkins Automated Deployment</h1>
   <p>
     End of jenkins topic.
-    06/09/2021
+    
   </p>
 </body>
 </html>
