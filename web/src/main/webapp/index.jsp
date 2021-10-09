@@ -13,7 +13,8 @@
 <body>
   <h1>Jenkins Automated Deployment</h1>
   <p>
-    UI Application deployment
+   End of jenkins class
+    <b> Next Topic is AWS </b>
     
   </p>
 </body>
