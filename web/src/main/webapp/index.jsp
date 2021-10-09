@@ -13,7 +13,7 @@
 <body>
   <h1>Jenkins Automated Deployment</h1>
   <p>
-    End of jenkins topic.
+    UI Application deployment
     
   </p>
 </body>
