@@ -11,9 +11,9 @@
     <title>webApps Deployment</title>
 </head>
 <body>
-  <h1>Jenkins Automated Deployment</h1>
+  <h1>Jenkins Automated Deployment Completed</h1>
   <p>
-   End of jenkins class
+   End of jenkins class - 01/07/2022
     <b> Next Topic is AWS </b>
     
   </p>
