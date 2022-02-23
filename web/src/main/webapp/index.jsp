@@ -8,12 +8,12 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>webApps Deployment</title>
+    <title>Jenkins Deployments</title>
 </head>
 <body>
   <h1>Jenkins Automated Deployment Completed</h1>
   <p>
-   End of jenkins class - 01/07/2022
+   End of jenkins class - 02/22/2022
     <b> Next Topic is AWS </b>
     
   </p>
